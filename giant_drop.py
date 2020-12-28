@@ -3,7 +3,7 @@ import Classes
 def giant_reward(victory):
     drop = 0
     if victory:
-        reward = random.choice([4,5,6])
+        reward = random.choice([4, 5, 6])
         if reward == 1:
             drop = Classes.Energy()
         elif reward == 2:
