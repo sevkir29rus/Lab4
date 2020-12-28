@@ -1,5 +1,7 @@
 import random
 import Classes
+
+
 def giant_reward(victory):
     drop = 0
     if victory:
