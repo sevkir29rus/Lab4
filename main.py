@@ -1,4 +1,3 @@
-import Classes
 import giant_drop
 import random
 vic = random.choice([0, 1])
